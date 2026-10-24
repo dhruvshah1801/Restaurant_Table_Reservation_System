@@ -1,8 +1,11 @@
 # Restaurant Table Reservation System
 
 **Name:** Dhruv Shah 
+
 **Enrollment Number:** 12402080601031
+
 **Div:** IT-A
+
 **Subject:** Design and Analysis of Algorithms (DAA)
 
 ## Project Overview
